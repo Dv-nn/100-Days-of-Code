@@ -42,10 +42,10 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 38 - Intermediate+ - Workout Tracking Using Google Sheets
 * Day 39 - Intermediate+ - Capstone Part 1: Flight Deal Finder
 * Day 40 - Intermediate+ - Capstone Part 2: Flight Club
-* Day 41 - wEB - Introduction to HTML
-* Day 42 - wEB - Intermediate HTML
-* Day 43 - wEB - Introduction to CSS
-* Day 44 - wEB - Intermediate CSS
+* Day 41 - Web - Introduction to HTML
+* Day 42 - Web - Intermediate HTML
+* Day 43 - Web - Introduction to CSS
+* Day 44 - Web - Intermediate CSS
 * Day 45 - Intermediate+ - Web Scraping with Beautiful Soup
 * Day 46 - Intermediate+ - Create a Spotify Playlist using the Musical Time Machine
 * Day 47 - Intermediate+ - Create an Automated Amazon Price Tracker
@@ -59,15 +59,15 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 55 - Intermediate+ - HTML & URL Parsing in Flask and the Higher Lower Game
 * Day 56 - Intermediate+ - Rendering HTML/Static files and Using Website Templates
 * Day 57 - Intermediate+ - Templating with Jinja in Flask Applications
-* Day 58 - web - Bootstrap
+* Day 58 - Web - Bootstrap
 * Day 59 - Advanced - Blog Capstone Project Part 2 - Adding Styling
 * Day 60 - Advanced - POST Requests with Flask and HTML Forms
 * Day 61 - Advanced - Building Advanced Forms with Flask-WTForms
 * Day 62 - Advanced - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
 * Day 63 - Advanced - Databases and with SQLite and SQLAlchemy
 * Day 64 - Advanced - My Top 10 Movies Website
-* Day 65 - wEB - How to Create a Website that People will Love
-* Day 66 - wEB - Building Your Own API with RESTful Routing
+* Day 65 - Web - How to Create a Website that People will Love
+* Day 66 - Web - Building Your Own API with RESTful Routing
 * Day 67 - Advanced - Blog Capstone Project Part 3 - RESTful Routing
 * Day 68 - Advanced - Authentication with Flask
 * Day 69 - Advanced - Blog Capstone Project Part 4 - Adding Users
