@@ -1,6 +1,7 @@
-# **This is where I am keeping all the codes for my final projects from 100 Days of Code: The Complete Python Pro Bootcamp.**  
+# **100 Days of Code: The Complete Python Pro Bootcamp.**  
+This is where I am keeping all the codes for my final projects from '100 Days of Code: The Complete Python Pro Bootcamp'.   
 
-## *Content*  
+### Content   
 * Day 1 - Beginner - [Working with Variables in Python to Manage Data ](https://путь/к/ссылке) 
 * Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings
 * Day 3 - Beginner - Control Flow and Logical Operators
