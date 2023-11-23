@@ -5,7 +5,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 1 - Beginner - [Working with Variables in Python to Manage Data ](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/blob/main/Day%201/main.py) 
 * Day 2 - Beginner - [Understanding Data Types and How to Manipulate Strings](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/blob/main/Day%202/main.py)
 * Day 3 - Beginner - [Control Flow and Logical Operators](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/blob/main/Day%203/main.py)
-* Day 4 - Beginner - Randomisation and Python Lists
+* Day 4 - Beginner - [Randomisation and Python Lists](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/blob/main/Day%204/main.py)
 * Day 5 - Beginner - Python Loops
 * Day 6 - Beginner - Python Functions & Karel
 * Day 7 - Beginner - Hangman
