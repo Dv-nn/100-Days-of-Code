@@ -24,14 +24,14 @@ operations = {
 }
 
 def calculator():
-  num_1= int(input("What's the first number?: "))
+  num_1= float(input("What's the first number?: "))
   for symbol in operations:
     print(symbol)
   should_continue(True) 
 
   while should_continue:
     operation_symbol = input("Pick an operation: ")
-    num_2 = int(input("What's the next number?: "))
+    num_2 = flat(input("What's the next number?: "))
     calculation_function = operations[operation_symbol]
     answer = calculation_function(num_1, num_2)
 
