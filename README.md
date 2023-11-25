@@ -10,7 +10,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 6 - Beginner - Python Functions & Karel
 * Day 7 - Beginner - [Hangman](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%207)
 * Day 8 - Beginner - [Function Parameters & Caesar Cipher](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/blob/main/Day%208/main.py)
-* Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
+* Day 9 - Beginner - [Dictionaries, Nesting and the Secret Auction](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%209)
 * Day 10 - Beginner - Function Return Values and the Calculator Project
 * Day 11 - Beginner - Blackjack Capstone Project
 * Day 12 - Beginner - Scope and Namespacing in Python
