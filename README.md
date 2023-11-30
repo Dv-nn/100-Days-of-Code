@@ -14,7 +14,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 10 - Beginner - [Function Return Values and the Calculator Project](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2010)
 * Day 11 - Beginner - [Blackjack Capstone Project](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/blob/main/Day%2011/blackjack.py)
 * Day 12 - Beginner - [Scope and Namespacing in Python](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/blob/main/Day%2012/main.py)
-* Day 13 - Beginner - [Debugging: How to Find and Fix Errors in your Code](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2013)
+* Day 13 - Beginner - [Debugging: How to Find and Fix Errors in your Code](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/blob/main/Day%2013/main.py)
 * Day 14 - Beginner - [Higher Lower Game Project](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2014)
 * Day 15 - Intermediate - Local Development Environment Setup & the Coffee Machine
 * Day 16 - Intermediate - Object Oriented Programming (OOP)
