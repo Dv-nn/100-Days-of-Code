@@ -1,31 +1,30 @@
 from turtle import Turtle, Screen
 from time import sleep
 
-touchet = Turtle()
+tim = Turtle()
 screen = Screen()
+    
+def moove_forwards():
+    tim.forward(10)  
+def move_backwards():
+    tim.backward(10)
+def turn_left():
+    new_heading = tim.heading() + 10    
+    tim.setheading(new_heading)
+def turn_right():
+    new_heading = tim.heading() - 10    
+    tim.setheading(new_heading)
 
-def move_right():
-    touchet.forward(10)
-def move_left():
-    touchet.backward(10)
-def move_down():
-    touchet.left(10)
-def move_up():
-    touchet.right(10)
 
-def clear_screen():
-    touchet.penup()
-    touchet.clear()
-    touchet.home()
-    sleep(1)
-    touchet.pendown()
 
 screen.listen()
-screen.onkey(key="Right", fun=move_up)
-screen.onkey(key="Left", fun=move_down)
-screen.onkey(key="Down", fun=move_left)
-screen.onkey(key="Up", fun=move_right)
-screen.onkey(key="c", fun=clear_screen)
-
+screen.onkey(move_forwards, "w")
+screen.onkey(move_forwards, "s")
+clear()
+screen.onkey(turn_left, "a")
+screen.onkey(turn_rigth, "d")
 
 screen.exitonclick()
+
+
+
