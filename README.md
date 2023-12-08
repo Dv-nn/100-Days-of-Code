@@ -24,7 +24,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 20 - Intermediate - [Build the Snake Game Part 1: Animation & Coordinates](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2020)
 * Day 21 - Intermediate - [Build the Snake Game Part 2: Inheritance & List Slicing](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2021)
 * Day 22 - Intermediate - [Build Pong: The Famous Arcade Game](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2022)  
-* Day 23 - Intermediate - The Turtle Crossing Capstone Project
+* Day 23 - Intermediate - [The Turtle Crossing Capstone Projec](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2023) 
 * Day 24 - Intermediate - Files, Directories and Paths
 * Day 25 - Intermediate - Working with CSV Data and the Pandas Library
 * Day 26 - Intermediate - List Comprehension and the NATO Alphabet
