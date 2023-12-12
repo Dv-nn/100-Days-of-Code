@@ -27,8 +27,8 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 23 - Intermediate - [The Turtle Crossing Capstone Projec](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2023) 
 * Day 24 - Intermediate - [Files, Directories and Paths](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2024)  
 * Day 25 - Intermediate - [Working with CSV Data and the Pandas Library](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2025) 
-* Day 26 - Intermediate - List Comprehension and the NATO Alphabet
-* Day 27 - Intermediate - Tkinter, *args, **kwargs and Creating GUI Programs
+* Day 26 - Intermediate - [List Comprehension and the NATO Alphabet](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2026)  
+* Day 27 - Intermediate - [Tkinter, *args, **kwargs and Creating GUI Programs](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2027)
 * Day 28 - Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Application
 * Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter
 * Day 30 - Intermediate - Errors, Exceptions and JSON Data: Improving the Password Manager
