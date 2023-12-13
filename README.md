@@ -33,7 +33,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 29 - Intermediate - [Building a Password Manager GUI App with Tkinter](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2029)  
 * Day 30 - Intermediate - [Errors, Exceptions and JSON Data: Improving the Password Manager](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2030)  
 * Day 31 - Intermediate - [Flash Card App Capstone Project](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2031)  
-* Day 32 - Intermediate+ - Send Email (smtplib) & Manage Dates (datetime)
+* Day 32 - Intermediate+ - [Send Email (smtplib) & Manage Dates (datetime)](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2032)  
 * Day 33 - Intermediate+ - API Endpoints & API Parameters - ISS Overhead Notifier
 * Day 34 - Intermediate+  API Practice - Creating a GUI Quiz App
 * Day 35 - Intermediate+  Keys, Authentication & Environment Variables: Send SMS
