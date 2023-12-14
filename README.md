@@ -35,7 +35,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 31 - Intermediate - [Flash Card App Capstone Project](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2031)  
 * Day 32 - Intermediate+ - [Send Email (smtplib) & Manage Dates (datetime)](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2032)  
 * Day 33 - Intermediate+ - [API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2033)  
-* Day 34 - Intermediate+  API Practice - Creating a GUI Quiz App
+* Day 34 - Intermediate+  [API Practice - Creating a GUI Quiz App](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2034/quizzler-app)  
 * Day 35 - Intermediate+  Keys, Authentication & Environment Variables: Send SMS
 * Day 36 - Intermediate+ - Stock Trading News Alert Project
 * Day 37 - Intermediate+ - Habit Tracking Project: API Post Requests & Headers
