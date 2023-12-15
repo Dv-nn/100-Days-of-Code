@@ -43,7 +43,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 39 - Intermediate+ - [Capstone Part 1: Flight Deal Finder](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2039)  
 * Day 40 - Intermediate+ - [Capstone Part 2: Flight Club](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2040)  
 * Day 41 - Web - [Introduction to HTML](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2041)  
-* Day 42 - Web - Intermediate HTML
+* Day 42 - Web - [Intermediate HTML](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2042)
 * Day 43 - Web - [Introduction to CSS](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2043)  
 * Day 44 - Web - Intermediate CSS
 * Day 45 - Intermediate+ - Web Scraping with Beautiful Soup
