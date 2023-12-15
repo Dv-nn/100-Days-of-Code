@@ -44,7 +44,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 40 - Intermediate+ - [Capstone Part 2: Flight Club](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2040)  
 * Day 41 - Web - [Introduction to HTML](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2041)  
 * Day 42 - Web - Intermediate HTML
-* Day 43 - Web - Introduction to CSS
+* Day 43 - Web - [Introduction to CSS](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2043)  
 * Day 44 - Web - Intermediate CSS
 * Day 45 - Intermediate+ - Web Scraping with Beautiful Soup
 * Day 46 - Intermediate+ - Create a Spotify Playlist using the Musical Time Machine
