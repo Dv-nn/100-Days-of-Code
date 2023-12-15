@@ -40,7 +40,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 36 - Intermediate+ - [Stock Trading News Alert Project](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2036)  
 * Day 37 - Intermediate+ - [Habit Tracking Project: API Post Requests & Headers](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2037)  
 * Day 38 - Intermediate+ - [Workout Tracking Using Google Sheets](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2038)  
-* Day 39 - Intermediate+ - Capstone Part 1: Flight Deal Finder
+* Day 39 - Intermediate+ - [Capstone Part 1: Flight Deal Finder](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2039)  
 * Day 40 - Intermediate+ - [Capstone Part 2: Flight Club](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2040)  
 * Day 41 - Web - Introduction to HTML
 * Day 42 - Web - Intermediate HTML
