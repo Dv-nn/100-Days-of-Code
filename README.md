@@ -55,7 +55,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 51 - Intermediate+ - [Internet Speed Twitter Complaint Bot](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2051)
 * Day 52 - Intermediate+ - [Instagram Follower Bot](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2052)
 * Day 53 - Intermediate+ - [Data Entry Job Automation](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2053)
-* Day 54 - Intermediate+ - Introduction to Web Development with Flask
+* Day 54 - Intermediate+ - [Introduction to Web Development with Flask](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2054)
 * Day 55 - Intermediate+ - HTML & URL Parsing in Flask and the Higher Lower Game
 * Day 56 - Intermediate+ - Rendering HTML/Static files and Using Website Templates
 * Day 57 - Intermediate+ - Templating with Jinja in Flask Applications
