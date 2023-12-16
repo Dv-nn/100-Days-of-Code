@@ -50,7 +50,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 46 - Intermediate+ - [Create a Spotify Playlist using the Musical Time Machine](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2046)
 * Day 47 - Intermediate+ - [Create an Automated Amazon Price Tracker](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2047)
 * Day 48 - Intermediate+ - [Selenium Webdriver Browser and Game Playing Bot](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2048)
-* Day 49 - Intermediate+ - Automating Job Applications on LinkedIn
+* Day 49 - Intermediate+ - [Automating Job Applications on LinkedIn](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2049)
 * Day 50 - Intermediate+ - Auto Tinder Swiping Bot
 * Day 51 - Intermediate+ - Internet Speed Twitter Complaint Bot
 * Day 52 - Intermediate+ - Instagram Follower Bot
