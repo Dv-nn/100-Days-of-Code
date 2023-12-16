@@ -57,8 +57,8 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 53 - Intermediate+ - [Data Entry Job Automation](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2053)
 * Day 54 - Intermediate+ - [Introduction to Web Development with Flask](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2054)
 * Day 55 - Intermediate+ - [HTML & URL Parsing in Flask and the Higher Lower Game](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2055)
-* Day 56 - Intermediate+ - [Rendering HTML/Static files and Using Website Templates](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2055)
-* Day 57 - Intermediate+ - [Templating with Jinja in Flask Applications](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2056)
+* Day 56 - Intermediate+ - [Rendering HTML/Static files and Using Website Templates](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2056)
+* Day 57 - Intermediate+ - [Templating with Jinja in Flask Applications]()
 * Day 58 - Web - Bootstrap
 * Day 59 - Advanced - Blog Capstone Project Part 2 - Adding Styling
 * Day 60 - Advanced - POST Requests with Flask and HTML Forms
