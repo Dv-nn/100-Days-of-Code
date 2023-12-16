@@ -52,7 +52,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 48 - Intermediate+ - [Selenium Webdriver Browser and Game Playing Bot](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2048)
 * Day 49 - Intermediate+ - [Automating Job Applications on LinkedIn](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2049)
 * Day 50 - Intermediate+ - [Auto Tinder Swiping Bot](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2050)
-* Day 51 - Intermediate+ - Internet Speed Twitter Complaint Bot
+* Day 51 - Intermediate+ - [Internet Speed Twitter Complaint Bot](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2051)
 * Day 52 - Intermediate+ - Instagram Follower Bot
 * Day 53 - Intermediate+ - Data Entry Job Automation
 * Day 54 - Intermediate+ - Introduction to Web Development with Flask
