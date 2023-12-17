@@ -63,7 +63,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 59 - Advanced - [Blog Capstone Project Part 2 - Adding Styling](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%20%2059)
 * Day 60 - Advanced - [POST Requests with Flask and HTML Forms](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2060)
 * Day 61 - Advanced - [Building Advanced Forms with Flask-WTForms](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2061)
-* Day 62 - Advanced - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+* Day 62 - Advanced - [Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2062)
 * Day 63 - Advanced - Databases and with SQLite and SQLAlchemy
 * Day 64 - Advanced - My Top 10 Movies Website
 * Day 65 - Web - How to Create a Website that People will Love
