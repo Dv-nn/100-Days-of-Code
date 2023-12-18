@@ -67,7 +67,7 @@ This is where I am keeping all the codes for my final projects from '100 Days of
 * Day 63 - Advanced - [Databases and with SQLite and SQLAlchemy](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2063)
 * Day 64 - Advanced - [My Top 10 Movies Website](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2064)
 * Day 65 - Web - How to Create a Website that People will Love
-* Day 66 - Web - Building Your Own API with RESTful Routing
+* Day 66 - Web - [Building Your Own API with RESTful Routing](https://github.com/Dv-nn/100-Days-of-Code--The-Complete-Python-Pro-Bootcamp-/tree/main/Day%2066)
 * Day 67 - Advanced - Blog Capstone Project Part 3 - RESTful Routing
 * Day 68 - Advanced - Authentication with Flask
 * Day 69 - Advanced - Blog Capstone Project Part 4 - Adding Users
